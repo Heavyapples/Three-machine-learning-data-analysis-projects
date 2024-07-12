@@ -1,0 +1,26 @@
+These Cost of Living Indices are relative to New York City (NYC), which means that for New York City, each index should be 100(%). If another city has, for example, rent index of 120, it means that the average rent in that city is 20% more expensive than in New York City, and e.g. in case of 70, the average rent is 30% less expensive in that city compared to NYC.
+
+Cost of Living Index (Excl. Rent): relative indicator of consumer goods prices, including groceries, restaurants, transportation and utilities. Cost of Living Index does not include accommodation expenses such as rent or mortgage.
+
+Rent Index: estimation of prices of renting apartments in the city compared to New York City.
+
+Cost of Living Plus Rent Index: estimation of consumer goods prices including rent comparing to New York City. 
+
+Groceries Index: estimation of grocery prices in the city compared to New York City. 
+
+Restaurants Index: comparison of prices of meals and drinks in restaurants and bars compared to NYC.
+
+Local Purchasing Power: relative purchasing power in buying goods and services in a given city for the average net salary in that city. If domestic purchasing power is 40, then the inhabitants of that city with an average salary can afford to buy on an average 60% less goods and services than New York City residents with an average salary.
+
+US: the value 1 shows that the given city is in the United States, 0 is for the cities outside the U.S. 
+
+The remaining attributes show the current prices of the given items in each city in USD.
+
+
+
+
+
+
+
+ 			 							
+

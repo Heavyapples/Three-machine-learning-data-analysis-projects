@@ -1,0 +1,13 @@
+Attribute Information:
+------------------------
+
+id = Youtube video id
+duration = duration of video
+bitrate = video bitrate (total in Kbits)
+bitrate(video) = video bitrate (bitrate in Kbits) 
+height = height of video in pixles
+width = width of video in pixles
+frame rate = actual video frame rate
+frame rate(est.) = estimated video frame rate
+codec = coding standard used for the video
+category = YouTube video category
